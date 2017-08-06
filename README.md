@@ -1,7 +1,7 @@
 # xfe-modern-win
 A modern theme, based on DamasDamas Icon Theme (which in turn in based on the modern Windows theme): https://github.com/sonakinci41/DamaDamas-icon-theme
-
-Installing is very easy:
+---
+Installation instructions:
 
 * Clone the repository or download the latest version from the Releases page
 * If downloaded from the releases page, unpack the zip file
