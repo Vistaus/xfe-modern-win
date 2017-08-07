@@ -1,5 +1,5 @@
 # xfe-modern-win
-A modern theme for Xfe file manager, based on DamasDamas Icon Theme (which in turn in based on the modern Windows theme): https://github.com/sonakinci41/DamaDamas-icon-theme
+A modern icon theme for Xfe file manager, a combination of DamasDamas Icon Theme (which in turn in based on the modern Windows theme): https://github.com/sonakinci41/DamaDamas-icon-theme and the default Windows icon theme by Roland Baudin (default icon theme in Xfe file manager).
 ---
 Installation instructions:
 
