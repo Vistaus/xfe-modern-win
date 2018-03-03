@@ -8,13 +8,13 @@ Installation instructions:
 * Open a terminal
 * Issue
 
-cd Downloads && sudo mv xfe-modern-win /usr/share/xfe/icons'
+cd Downloads && sudo mv xfe-modern-win/xfe-modern-win /usr/share/xfe/icons'
 
 * Open Xfe
 * Go to Edit --> Preferences --> Themes
 * Under 'Icon theme path' replace 
 
-/usr/share/xfe/icons/windows-modern-theme
+/usr/share/xfe/icons/windows-theme
 
 with
 
